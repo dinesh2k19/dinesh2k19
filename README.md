@@ -13,4 +13,4 @@
 🤝 **How to Reach Me:**
 - 🌐 Website: https://sites.google.com/view/dinesh2k19/
 - 📧 Email or 📱 text me before calling.
-- ✨ Fun fact: travel and trips, connect and know more ! 
+- 🎲 Fun fact: travel and trips, connect and know more ! 
