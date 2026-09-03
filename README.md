@@ -1,6 +1,6 @@
 ## Hi, Dinesh Kumar here 👋
 
-- 🔭 I’m currently Calmette & Yersin Pasteur Network Postdoctoral Fellow (PDF) at the Institut Pasteur Hellenique, Athens, Greece, investigating the de-novo origin of the antimicrobial resistome and its evolutionary trajectory in microbial pathogens.
+- 🔭 Calmette & Yersin Pasteur Network Postdoctoral Fellow (PDF) at the Institut Pasteur Hellenique, Athens, Greece, investigating the de-novo origin of the antimicrobial resistome and its evolutionary trajectory in microbial pathogens via Pasteur Network Fellowship. 
   
 - 🌱 Previously, I served as PDF at Department of Biological Sciences, Birla Institute of Technology and Science (BITS) Pilani, Hyderabad Campus, Telangana, India.
 
