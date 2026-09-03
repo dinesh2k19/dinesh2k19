@@ -1,9 +1,6 @@
 ## Hi, I am Dinesh Kumar 👋
 
 <!--
-**dinesh2k19/dinesh2k19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently Calmette & Yersin Pasteur Network Postdoctoral Fellow (PDF) at the Institut Pasteur Hellenique, Athens, Greece, investigating the de-novo origin of the antimicrobial resistome and its evolutionary trajectory in microbial pathogens.
 - 🌱 Previously, I served as Post-doctoral Research Fellow at the Department of Biological Sciences, Birla Institute of Technology and Science (BITS) Pilani, Hyderabad Campus, Telangana, India in a project on lipids and cyclic nucleotides-mediated regulation of lytic cycle in Toxoplasma gondii sponsored by DST-Core Research Grant Project funded by Science and Engineering Research Board (SERB), Ministry of Science and Technology, Government of India until Jan 2025. 
