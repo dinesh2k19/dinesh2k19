@@ -9,5 +9,7 @@
 - 📚 Master's research work at Bhabha Atomic Research Centre (BARC), Mumbai, Dept. of Atomic Energy (DAE), Government of India.
   
 - 🔎 Interested in my research? I’m looking to collaborate on computational biology, pathogen surveillance, virology, microbial and functional genomics. 
-- 🤝 How to reach me: https://sites.google.com/view/dinesh2k19/, Email and text before call
+- 🤝 How to reach me:
+-- 🌐 Website: https://sites.google.com/view/dinesh2k19/
+-- Please 📧 Email or 📱 text me before calling
 - ✨ Fun fact: travel and trips, connect and know more ! 
