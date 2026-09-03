@@ -7,4 +7,3 @@
 - 📫 How to reach me: email and text before call.
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: travel and trips 
--->
