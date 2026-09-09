@@ -1,6 +1,6 @@
 ## Hi, there 👋
 
-🔭 Calmette & Yersin Pasteur Network Postdoctoral Fellow (PDF) at the Institut Pasteur Hellenique, Athens, Greece, investigating the de-novo origin of the antimicrobial resistome and its evolutionary trajectory in microbial pathogens. 
+- 🔭 Calmette & Yersin Pasteur Network Postdoctoral Fellow (PDF) at the Institut Pasteur Hellenique, Athens, Greece, investigating the de-novo origin of the antimicrobial resistome and its evolutionary trajectory in microbial pathogens. 
   
 - 🎓 PhD (Biotechnology) from Dept. of Microbiology and Biotechnology, Gujarat University, Ahmedabad, India.
 - 👨‍🔬 PDF at Dept. of Biological Sciences, Birla Institute of Technology & Science (BITS) Pilani, Hyderabad Campus, Telangana, India.
